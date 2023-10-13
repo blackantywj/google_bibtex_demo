@@ -1,0 +1,601 @@
+
+@article{yu2022self,
+  title={Self-training for class-incremental semantic segmentation},
+  author={Yu, Lu and Liu, Xialei and Van de Weijer, Joost},
+  journal={IEEE Transactions on Neural Networks and Learning Systems},
+  year={2022},
+  publisher={IEEE}
+}
+@inproceedings{kalb2022causes,
+  title={Causes of catastrophic forgetting in class-incremental semantic segmentation},
+  author={Kalb, Tobias and Beyerer, J{\"u}rgen},
+  booktitle={Proceedings of the Asian Conference on Computer Vision},
+  pages={56--73},
+  year={2022}
+}
+@inproceedings{xiao2023endpoints,
+  title={Endpoints Weight Fusion for Class Incremental Semantic Segmentation},
+  author={Xiao, Jia-Wen and Zhang, Chang-Bin and Feng, Jiekang and Liu, Xialei and van de Weijer, Joost and Cheng, Ming-Ming},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={7204--7213},
+  year={2023}
+}
+@inproceedings{dong2023federated,
+  title={Federated Incremental Semantic Segmentation},
+  author={Dong, Jiahua and Zhang, Duzhen and Cong, Yang and Cong, Wei and Ding, Henghui and Dai, Dengxin},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={3934--3943},
+  year={2023}
+}
+@article{cong2023gradient,
+  title={Gradient-Semantic Compensation for Incremental Semantic Segmentation},
+  author={Cong, Wei and Cong, Yang and Dong, Jiahua and Sun, Gan and Ding, Henghui},
+  journal={arXiv preprint arXiv:2307.10822},
+  year={2023}
+}
+@inproceedings{kalb2021continual,
+  title={Continual learning for class-and domain-incremental semantic segmentation},
+  author={Kalb, Tobias and Roschani, Masoud and Ruf, Miriam and Beyerer, J{\"u}rgen},
+  booktitle={2021 IEEE Intelligent Vehicles Symposium (IV)},
+  pages={1345--1351},
+  year={2021},
+  organization={IEEE}
+}
+@article{rong2022historical,
+  title={Historical information-guided class-incremental semantic segmentation in remote sensing images},
+  author={Rong, Xuee and Sun, Xian and Diao, Wenhui and Wang, Peijin and Yuan, Zhiqiang and Wang, Hongqi},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  volume={60},
+  pages={1--18},
+  year={2022},
+  publisher={IEEE}
+}
+@inproceedings{goswami2023attribution,
+  title={Attribution-aware Weight Transfer: A Warm-Start Initialization for Class-Incremental Semantic Segmentation},
+  author={Goswami, Dipam and Schuster, Ren{\'e} and van de Weijer, Joost and Stricker, Didier},
+  booktitle={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision},
+  pages={3195--3204},
+  year={2023}
+}
+@article{huang2021half,
+  title={Half-real half-fake distillation for class-incremental semantic segmentation},
+  author={Huang, Zilong and Hao, Wentian and Wang, Xinggang and Tao, Mingyuan and Huang, Jianqiang and Liu, Wenyu and Hua, Xian-Sheng},
+  journal={arXiv preprint arXiv:2104.00875},
+  year={2021}
+}
+@inproceedings{kalb2023principles,
+  title={Principles of Forgetting in Domain-Incremental Semantic Segmentation in Adverse Weather Conditions},
+  author={Kalb, Tobias and Beyerer, J{\"u}rgen},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={19508--19518},
+  year={2023}
+}
+@inproceedings{camuffo2023continual,
+  title={Continual Learning for LiDAR Semantic Segmentation: Class-Incremental and Coarse-to-Fine strategies on Sparse Data},
+  author={Camuffo, Elena and Milani, Simone},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={2446--2455},
+  year={2023}
+}
+@article{zhao2023inherit,
+  title={Inherit With Distillation and Evolve With Contrast: Exploring Class Incremental Semantic Segmentation Without Exemplar Memory},
+  author={Zhao, Danpei and Yuan, Bo and Shi, Zhenwei},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2023},
+  publisher={IEEE}
+}
+@article{abdou2018weighted,
+  title={Weighted Self-Incremental Transfer Learning for 3D-Semantic Segmentation},
+  author={Abdou, Mohammed and Elkhateeb, Mahmoud and Sobh, Ibrahim and El-sallab, Ahmad},
+  year={2018}
+}
+@inproceedings{liu2022new,
+  title={A New Generative Replay Approach for Incremental Class Learning of Medical Image for Semantic Segmentation},
+  author={Liu, Mingyang and Xiao, Li and Jiang, Huiqin and He, Qing},
+  booktitle={Proceedings of the 2022 International Conference on Intelligent Medicine and Health},
+  pages={51--56},
+  year={2022}
+}
+@inproceedings{zhao2022rbc,
+  title={RBC: Rectifying the Biased Context in Continual Semantic Segmentation},
+  author={Zhao, Hanbin and Yang, Fengyu and Fu, Xinghe and Li, Xi},
+  booktitle={European Conference on Computer Vision},
+  pages={55--72},
+  year={2022},
+  organization={Springer}
+}
+@article{yang2022continual,
+  title={Continual attentive fusion for incremental learning in semantic segmentation},
+  author={Yang, Guanglei and Fini, Enrico and Xu, Dan and Rota, Paolo and Ding, Mingli and Hao, Tang and Alameda-Pineda, Xavier and Ricci, Elisa},
+  journal={IEEE Transactions on Multimedia},
+  year={2022},
+  publisher={IEEE}
+}
+@article{rui2023dilrs,
+  title={DILRS: Domain-Incremental Learning for Semantic Segmentation in Multi-Source Remote Sensing Data},
+  author={Rui, Xue and Li, Ziqiang and Cao, Yang and Li, Ziyang and Song, Weiguo},
+  journal={Remote Sensing},
+  volume={15},
+  number={10},
+  pages={2541},
+  year={2023},
+  publisher={MDPI}
+}
+@article{li2021class,
+  title={Class-incremental learning network for small objects enhancing of semantic segmentation in aerial imagery},
+  author={Li, Junxi and Sun, Xian and Diao, Wenhui and Wang, Peijin and Feng, Yingchao and Lu, Xiaonan and Xu, Guangluan},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  volume={60},
+  pages={1--20},
+  year={2021},
+  publisher={IEEE}
+}
+@article{toldo2022learning,
+  title={Learning with style: continual semantic segmentation across tasks and domains},
+  author={Toldo, Marco and Michieli, Umberto and Zanuttigh, Pietro},
+  journal={arXiv preprint arXiv:2210.07016},
+  year={2022}
+}
+@article{shan2021class,
+  title={Class-incremental learning for semantic segmentation in aerial imagery via distillation in all aspects},
+  author={Shan, Lianlei and Wang, Weiqiang and Lv, Ke and Luo, Bin},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  volume={60},
+  pages={1--12},
+  year={2021},
+  publisher={IEEE}
+}
+@inproceedings{michieli2021continual,
+  title={Continual semantic segmentation via repulsion-attraction of sparse and disentangled latent representations},
+  author={Michieli, Umberto and Zanuttigh, Pietro},
+  booktitle={Proceedings of the IEEE/CVF conference on computer vision and pattern recognition},
+  pages={1114--1124},
+  year={2021}
+}
+@inproceedings{garg2022multi,
+  title={Multi-domain incremental learning for semantic segmentation},
+  author={Garg, Prachi and Saluja, Rohit and Balasubramanian, Vineeth N and Arora, Chetan and Subramanian, Anbumani and Jawahar, CV},
+  booktitle={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision},
+  pages={761--771},
+  year={2022}
+}
+@article{chen2019multi,
+  title={Multi-view incremental segmentation of 3-D point clouds for mobile robots},
+  author={Chen, Jingdao and Cho, Yong Kwon and Kira, Zsolt},
+  journal={IEEE Robotics and Automation Letters},
+  volume={4},
+  number={2},
+  pages={1240--1246},
+  year={2019},
+  publisher={IEEE}
+}
+@article{allwood2005structured,
+  title={A structured search for applications of the incremental sheet-forming process by product segmentation},
+  author={Allwood, JM and King, GPF and Duflou, Joost},
+  journal={Proceedings of the Institution of Mechanical Engineers, Part B: Journal of Engineering Manufacture},
+  volume={219},
+  number={2},
+  pages={239--244},
+  year={2005},
+  publisher={SAGE Publications Sage UK: London, England}
+}
+@article{liu2015incremental,
+  title={Incremental topological segmentation for semi-structured environments using discretized GVG},
+  author={Liu, Ming and Colas, Francis and Oth, Luc and Siegwart, Roland},
+  journal={Autonomous Robots},
+  volume={38},
+  pages={143--160},
+  year={2015},
+  publisher={Springer}
+}
+@inproceedings{shi2022incremental,
+  title={Incremental few-shot semantic segmentation via embedding adaptive-update and hyper-class representation},
+  author={Shi, Guangchen and Wu, Yirui and Liu, Jun and Wan, Shaohua and Wang, Wenhai and Lu, Tong},
+  booktitle={Proceedings of the 30th ACM International Conference on Multimedia},
+  pages={5547--5556},
+  year={2022}
+}
+@article{lin2020active,
+  title={Active and incremental learning for semantic ALS point cloud segmentation},
+  author={Lin, Yaping and Vosselman, George and Cao, Yanpeng and Yang, Michael Ying},
+  journal={ISPRS journal of photogrammetry and remote sensing},
+  volume={169},
+  pages={73--92},
+  year={2020},
+  publisher={Elsevier}
+}
+@inproceedings{ganea2021incremental,
+  title={Incremental few-shot instance segmentation},
+  author={Ganea, Dan Andrei and Boom, Bas and Poppe, Ronald},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={1185--1194},
+  year={2021}
+}
+@article{shan2022class,
+  title={Class-Incremental Semantic Segmentation of Aerial Images via Pixel-Level Feature Generation and Task-Wise Distillation},
+  author={Shan, Lianlei and Wang, Weiqiang and Lv, Ke and Luo, Bin},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  volume={60},
+  pages={1--17},
+  year={2022},
+  publisher={IEEE}
+}
+@inproceedings{yang2023geometry,
+  title={Geometry and Uncertainty-Aware 3D Point Cloud Class-Incremental Semantic Segmentation},
+  author={Yang, Yuwei and Hayat, Munawar and Jin, Zhao and Ren, Chao and Lei, Yinjie},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={21759--21768},
+  year={2023}
+}
+@article{michieli2021knowledge,
+  title={Knowledge distillation for incremental learning in semantic segmentation},
+  author={Michieli, Umberto and Zanuttigh, Pietro},
+  journal={Computer Vision and Image Understanding},
+  volume={205},
+  pages={103167},
+  year={2021},
+  publisher={Elsevier}
+}
+@article{yang2022uncertainty,
+  title={Uncertainty-aware contrastive distillation for incremental semantic segmentation},
+  author={Yang, Guanglei and Fini, Enrico and Xu, Dan and Rota, Paolo and Ding, Mingli and Nabi, Moin and Alameda-Pineda, Xavier and Ricci, Elisa},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  volume={45},
+  number={2},
+  pages={2567--2581},
+  year={2022},
+  publisher={IEEE}
+}
+@inproceedings{gu2021class,
+  title={Class-incremental instance segmentation via multi-teacher networks},
+  author={Gu, Yanan and Deng, Cheng and Wei, Kun},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={35},
+  number={2},
+  pages={1478--1486},
+  year={2021}
+}
+@article{oh2022alife,
+  title={Alife: Adaptive logit regularizer and feature replay for incremental semantic segmentation},
+  author={Oh, Youngmin and Baek, Donghyeon and Ham, Bumsub},
+  journal={Advances in Neural Information Processing Systems},
+  volume={35},
+  pages={14516--14528},
+  year={2022}
+}
+@article{cha2021ssul,
+  title={SSUL: Semantic segmentation with unknown label for exemplar-based class-incremental learning},
+  author={Cha, Sungmin and Yoo, YoungJoon and Moon, Taesup and others},
+  journal={Advances in neural information processing systems},
+  volume={34},
+  pages={10919--10930},
+  year={2021}
+}
+@inproceedings{liu2022ins,
+  title={Ins-conv: Incremental sparse convolution for online 3d segmentation},
+  author={Liu, Leyao and Zheng, Tian and Lin, Yun-Jou and Ni, Kai and Fang, Lu},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={18975--18984},
+  year={2022}
+}
+@article{whelan2015incremental,
+  title={Incremental and batch planar simplification of dense point cloud maps},
+  author={Whelan, Thomas and Ma, Lingni and Bondarev, Egor and de With, PHN and McDonald, John},
+  journal={Robotics and Autonomous Systems},
+  volume={69},
+  pages={3--14},
+  year={2015},
+  publisher={Elsevier}
+}
+@article{lu2023efficient,
+  title={Efficient Multi-Grained Knowledge Reuse for Class Incremental Segmentation},
+  author={Lu, Zhihe and Yan, Shuicheng and Wang, Xinchao},
+  journal={arXiv preprint arXiv:2306.02027},
+  year={2023}
+}
+@article{odobez1998direct,
+  title={Direct incremental model-based image motion segmentation for video analysis},
+  author={Odobez, Jean-Marc and Bouthemy, Patrick},
+  journal={Signal Processing},
+  volume={66},
+  number={2},
+  pages={143--155},
+  year={1998},
+  publisher={Elsevier}
+}
+@inproceedings{finman2014efficient,
+  title={Efficient incremental map segmentation in dense rgb-d maps},
+  author={Finman, Ross and Whelan, Thomas and Kaess, Michael and Leonard, John J},
+  booktitle={2014 IEEE International Conference on Robotics and Automation (ICRA)},
+  pages={5488--5494},
+  year={2014},
+  organization={IEEE}
+}
+@article{baek2022decomposed,
+  title={Decomposed knowledge distillation for class-incremental semantic segmentation},
+  author={Baek, Donghyeon and Oh, Youngmin and Lee, Sanghoon and Lee, Junghyup and Ham, Bumsub},
+  journal={Advances in Neural Information Processing Systems},
+  volume={35},
+  pages={10380--10392},
+  year={2022}
+}
+@inproceedings{yu2023foundation,
+  title={Foundation Model Drives Weakly Incremental Learning for Semantic Segmentation},
+  author={Yu, Chaohui and Zhou, Qiang and Li, Jingliang and Yuan, Jianlong and Wang, Zhibin and Wang, Fan},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={23685--23694},
+  year={2023}
+}
+@inproceedings{nakajima2019incremental,
+  title={Incremental class discovery for semantic segmentation with RGBD sensing},
+  author={Nakajima, Yoshikatsu and Kang, Byeongkeun and Saito, Hideo and Kitani, Kris},
+  booktitle={Proceedings of the IEEE/CVF international conference on computer vision},
+  pages={972--981},
+  year={2019}
+}
+@article{cermelli2020prototype,
+  title={Prototype-based incremental few-shot semantic segmentation},
+  author={Cermelli, Fabio and Mancini, Massimiliano and Xian, Yongqin and Akata, Zeynep and Caputo, Barbara},
+  journal={arXiv preprint arXiv:2012.01415},
+  year={2020}
+}
+@article{cermelli2021modeling,
+  title={Modeling the background for incremental and weakly-supervised semantic segmentation},
+  author={Cermelli, Fabio and Mancini, Massimiliano and Bulo, Samuel Rota and Ricci, Elisa and Caputo, Barbara},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  volume={44},
+  number={12},
+  pages={10099--10113},
+  year={2021},
+  publisher={IEEE}
+}
+@article{li2022domain,
+  title={Domain-incremental cardiac image segmentation with style-oriented replay and domain-sensitive feature whitening},
+  author={Li, Kang and Yu, Lequan and Heng, Pheng-Ann},
+  journal={IEEE Transactions on Medical Imaging},
+  volume={42},
+  number={3},
+  pages={570--581},
+  year={2022},
+  publisher={IEEE}
+}
+@article{iscan2009medical,
+  title={Medical image segmentation with transform and moment based features and incremental supervised neural network},
+  author={Iscan, Zafer and Y{\"u}ksel, Ayhan and Dokur, Z{\"u}mray and Kor{\"u}rek, Mehmet and {\"O}lmez, Tamer},
+  journal={Digital Signal Processing},
+  volume={19},
+  number={5},
+  pages={890--901},
+  year={2009},
+  publisher={Elsevier}
+}
+@article{roy2023rasp,
+  title={RaSP: Relation-aware Semantic Prior for Weakly Supervised Incremental Segmentation},
+  author={Roy, Subhankar and Volpi, Riccardo and Csurka, Gabriela and Larlus, Diane},
+  journal={arXiv preprint arXiv:2305.19879},
+  year={2023}
+}
+@article{alfarra2022simcs,
+  title={Simcs: Simulation for online domain-incremental continual segmentation},
+  author={Alfarra, Motasem and Cai, Zhipeng and Bibi, Adel and Ghanem, Bernard and M{\"u}ller, Matthias},
+  journal={arXiv preprint arXiv:2211.16234},
+  year={2022}
+}
+@inproceedings{yajima2021fast,
+  title={Fast online incremental segmentation of 3d point clouds from disaster sites},
+  author={Yajima, Yosuke and Kim, Seongyong and Chen, Jingdao and Cho, Yong K},
+  booktitle={ISARC. Proceedings of the International Symposium on Automation and Robotics in Construction},
+  volume={38},
+  pages={341--348},
+  year={2021},
+  organization={IAARC Publications}
+}
+@inproceedings{lenczner2022weakly,
+  title={Weakly-supervised continual learning for class-incremental segmentation},
+  author={Lenczner, Gaston and Chan-Hon-Tong, Adrien and Luminari, Nicola and Le Saux, Bertrand},
+  booktitle={IGARSS 2022-2022 IEEE International Geoscience and Remote Sensing Symposium},
+  pages={4843--4846},
+  year={2022},
+  organization={IEEE}
+}
+@article{tasar2019incremental,
+  title={Incremental learning for semantic segmentation of large-scale remote sensing data},
+  author={Tasar, Onur and Tarabalka, Yuliya and Alliez, Pierre},
+  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},
+  volume={12},
+  number={9},
+  pages={3524--3537},
+  year={2019},
+  publisher={IEEE}
+}
+@inproceedings{yan2021framework,
+  title={An em framework for online incremental learning of semantic segmentation},
+  author={Yan, Shipeng and Zhou, Jiale and Xie, Jiangwei and Zhang, Songyang and He, Xuming},
+  booktitle={Proceedings of the 29th ACM international conference on multimedia},
+  pages={3052--3060},
+  year={2021}
+}
+@inproceedings{cermelli2020modeling,
+  title={Modeling the background for incremental learning in semantic segmentation},
+  author={Cermelli, Fabio and Mancini, Massimiliano and Bulo, Samuel Rota and Ricci, Elisa and Caputo, Barbara},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={9233--9242},
+  year={2020}
+}
+@inproceedings{takahashi1996reasonable,
+  title={Reasonable performance in less learning time by real robot based on incremental state space segmentation},
+  author={Takahashi, Yasutake and Asada, Minoru and Hosoda, Koh},
+  booktitle={Proceedings of IEEE/RSJ International Conference on Intelligent Robots and Systems. IROS'96},
+  volume={3},
+  pages={1518--1524},
+  year={1996},
+  organization={IEEE}
+}
+@article{chen2019multi,
+  title={Multi-view incremental segmentation of 3-D point clouds for mobile robots},
+  author={Chen, Jingdao and Cho, Yong Kwon and Kira, Zsolt},
+  journal={IEEE Robotics and Automation Letters},
+  volume={4},
+  number={2},
+  pages={1240--1246},
+  year={2019},
+  publisher={IEEE}
+}
+@inproceedings{black1992combining,
+  title={Combining intensity and motion for incremental segmentation and tracking over long image sequences},
+  author={Black, Michael J},
+  booktitle={Computer Vision—ECCV'92: Second European Conference on Computer Vision Santa Margherita Ligure, Italy, May 19--22, 1992 Proceedings 2},
+  pages={485--493},
+  year={1992},
+  organization={Springer}
+}
+@inproceedings{cermelli2022incremental,
+  title={Incremental learning in semantic segmentation from image labels},
+  author={Cermelli, Fabio and Fontanel, Dario and Tavera, Antonio and Ciccone, Marco and Caputo, Barbara},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={4371--4381},
+  year={2022}
+}
+@article{zhang2022mining,
+  title={Mining Unseen Classes via Regional Objectness: A Simple Baseline for Incremental Segmentation},
+  author={Zhang, Zekang and Gao, Guangyu and Fang, Zhiyuan and Jiao, Jianbo and Wei, Yunchao},
+  journal={Advances in Neural Information Processing Systems},
+  volume={35},
+  pages={24340--24353},
+  year={2022}
+}
+@inproceedings{yarmohammadi2013incremental,
+  title={Incremental segmentation and decoding strategies for simultaneous translation},
+  author={Yarmohammadi, Mahsa and Sridhar, Vivek Kumar Rangarajan and Bangalore, Srinivas and Sankaran, Baskaran},
+  booktitle={Proceedings of the Sixth International Joint Conference on Natural Language Processing},
+  pages={1032--1036},
+  year={2013}
+}
+@inproceedings{nakajima2018fast,
+  title={Fast and accurate semantic mapping through geometric-based incremental segmentation},
+  author={Nakajima, Yoshikatsu and Tateno, Keisuke and Tombari, Federico and Saito, Hideo},
+  booktitle={2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  pages={385--392},
+  year={2018},
+  organization={IEEE}
+}
+@article{kanhere2008real,
+  title={Real-time incremental segmentation and tracking of vehicles at low camera angles using stable features},
+  author={Kanhere, Neeraj K and Birchfield, Stanley T},
+  journal={IEEE transactions on intelligent transportation systems},
+  volume={9},
+  number={1},
+  pages={148--160},
+  year={2008},
+  publisher={IEEE}
+}
+@inproceedings{tateno2015real,
+  title={Real-time and scalable incremental segmentation on dense slam},
+  author={Tateno, Keisuke and Tombari, Federico and Navab, Nassir},
+  booktitle={2015 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  pages={4465--4472},
+  year={2015},
+  organization={IEEE}
+}
+@inproceedings{michieli2019incremental,
+  title={Incremental learning techniques for semantic segmentation},
+  author={Michieli, Umberto and Zanuttigh, Pietro},
+  booktitle={Proceedings of the IEEE/CVF international conference on computer vision workshops},
+  pages={0--0},
+  year={2019}
+}
+@article{ma2021abdomenct,
+  title={Abdomenct-1k: Is abdominal organ segmentation a solved problem?},
+  author={Ma, Jun and Zhang, Yao and Gu, Song and Zhu, Cheng and Ge, Cheng and Zhang, Yichi and An, Xingle and Wang, Congcong and Wang, Qiyuan and Liu, Xin and others},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  volume={44},
+  number={10},
+  pages={6695--6714},
+  year={2021},
+  publisher={IEEE}
+}
+@article{han2023online,
+  title={Online continual learning via the knowledge invariant and spread-out properties},
+  author={Han, Ya-nan and Liu, Jian-wei},
+  journal={Expert Systems with Applications},
+  volume={213},
+  pages={119004},
+  year={2023},
+  publisher={Elsevier}
+}
+@inproceedings{pelosin2022towards,
+  title={Towards exemplar-free continual learning in vision transformers: an account of attention, functional and weight regularization},
+  author={Pelosin, Francesco and Jha, Saurav and Torsello, Andrea and Raducanu, Bogdan and van de Weijer, Joost},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={3820--3829},
+  year={2022}
+}
+@article{li2023variational,
+  title={Variational Data-Free Knowledge Distillation for Continual Learning},
+  author={Li, Xiaorong and Wang, Shipeng and Sun, Jian and Xu, Zongben},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2023},
+  publisher={IEEE}
+}
+@article{marsocci2023continual,
+  title={Continual barlow twins: continual self-supervised learning for remote sensing semantic segmentation},
+  author={Marsocci, Valerio and Scardapane, Simone},
+  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},
+  year={2023},
+  publisher={IEEE}
+}
+@inproceedings{ranem2022continual,
+  title={Continual hippocampus segmentation with transformers},
+  author={Ranem, Amin and Gonz{\'a}lez, Camila and Mukhopadhyay, Anirban},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={3711--3720},
+  year={2022}
+}
+@incollection{michieli2022domain,
+  title={Domain adaptation and continual learning in semantic segmentation},
+  author={Michieli, Umberto and Toldo, Marco and Zanuttigh, Pietro},
+  booktitle={Advanced Methods and Deep Learning in Computer Vision},
+  pages={275--303},
+  year={2022},
+  publisher={Elsevier}
+}
+@inproceedings{wu2022clsd,
+  title={CLSD: Continual Learning for Lane Line Segmentation Across Domains},
+  author={Wu, Yan and Liao, Yujun and Jiang, Wei and Zhao, Junqiao and Liu, Feilin and Mo, Yujian},
+  booktitle={2022 IEEE 7th International Conference on Intelligent Transportation Engineering (ICITE)},
+  pages={580--585},
+  year={2022},
+  organization={IEEE}
+}
+@inproceedings{ozgun2020importance,
+  title={Importance driven continual learning for segmentation across domains},
+  author={{\"O}zg{\"u}n, Sinan and Rickmann, Anne-Marie and Roy, Abhijit Guha and Wachinger, Christian},
+  booktitle={Machine Learning in Medical Imaging: 11th International Workshop, MLMI 2020, Held in Conjunction with MICCAI 2020, Lima, Peru, October 4, 2020, Proceedings 11},
+  pages={423--433},
+  year={2020},
+  organization={Springer}
+}
+@article{feng2021continual,
+  title={Continual learning with structured inheritance for semantic segmentation in aerial imagery},
+  author={Feng, Yingchao and Sun, Xian and Diao, Wenhui and Li, Jihao and Gao, Xin and Fu, Kun},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  volume={60},
+  pages={1--17},
+  year={2021},
+  publisher={IEEE}
+}
+@inproceedings{nazemi2023clvos23,
+  title={Clvos23: A long video object segmentation dataset for continual learning},
+  author={Nazemi, Amir and Moustafa, Zeyad and Fieguth, Paul},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={2495--2504},
+  year={2023}
+}
+@inproceedings{kalb2022improving,
+  title={Improving Replay-Based Continual Semantic Segmentation with Smart Data Selection},
+  author={Kalb, Tobias and Mauthe, Bj{\"o}rn and Beyerer, J{\"u}rgen},
+  booktitle={2022 IEEE 25th International Conference on Intelligent Transportation Systems (ITSC)},
+  pages={1114--1121},
+  year={2022},
+  organization={IEEE}
+}
